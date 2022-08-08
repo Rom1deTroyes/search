@@ -1,10 +1,10 @@
 # Setup
-title:        vsoch/search
+title:        Rom1deTroyes/search
 baseurl:      "/search"
-repository:    vsoch/search
+repository:    Rom1deTroyes/search
 
 # Scrolltop color
-scrolltop_color: "#fd1268"
+scrolltop_color: "#664266"
 
 # Collections
 collections:
